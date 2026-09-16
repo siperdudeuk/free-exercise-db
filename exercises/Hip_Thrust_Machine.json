@@ -1,0 +1,24 @@
+{
+  "name": "Hip Thrust Machine",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Sit into the machine with your back against the pad and the belt or lap pad across the crease of your hips, not your stomach. Set the seat so your shins are roughly vertical at the top of the movement.",
+    "Plant both feet flat on the platform about hip-width apart and take hold of the handles. This is your starting position.",
+    "Drive through your heels and push your hips up until your body is straight from knees to shoulders. Squeeze the glutes hard at the top and keep your ribs down \u2014 do not finish the movement by arching your lower back.",
+    "Pause for a second at the top, then lower under control until the weight is nearly resting.",
+    "The machine is easier to load heavily than the barbell version and does not need setting up, which makes it the better choice for high-rep glute work and for anyone who dislikes a bar across the hips."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Hip_Thrust_Machine"
+}

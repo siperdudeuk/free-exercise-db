@@ -1,0 +1,25 @@
+{
+  "name": "Chest Supported Row Machine",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Set the chest pad so that when you lean into it your arms reach the handles with a slight bend and your shoulders are free to move.",
+    "Sit or stand into the machine, chest against the pad, and take the handles with a neutral or overhand grip. This is your starting position.",
+    "Pull the handles towards you, leading with the elbows and drawing the shoulder blades together at the end of the pull.",
+    "Pause briefly with the shoulder blades squeezed, then let the handles travel back out until the arms are straight and the shoulder blades have spread apart again.",
+    "Because the pad supports your torso, the lower back does no work holding position \u2014 this is the row to use when a bent-over row is the thing that fatigues first."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Chest_Supported_Row_Machine"
+}

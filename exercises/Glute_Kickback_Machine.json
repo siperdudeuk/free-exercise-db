@@ -1,0 +1,23 @@
+{
+  "name": "Glute Kickback Machine",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set the machine so the foot plate or roller sits under the working foot with the hip bent at roughly ninety degrees. Rest your torso on the support and hold the handles.",
+    "Place one foot on the plate and take your weight on the other leg. This is your starting position.",
+    "Press the working leg back and up until the hip is fully extended, squeezing the glute. Keep your back still \u2014 if your lower back arches to finish the rep, the weight is too heavy.",
+    "Return under control until the hip is bent again, without letting the weight stack rest.",
+    "Complete all reps on one side, then swap. This is an isolation movement \u2014 load it for higher reps rather than trying to make it a strength lift."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Glute_Kickback_Machine"
+}
