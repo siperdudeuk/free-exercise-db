@@ -1,0 +1,25 @@
+{
+  "name": "Barbell Front Rack Lunge",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abdominals",
+    "shoulders"
+  ],
+  "instructions": [
+    "Set a barbell in a rack at upper-chest height. Take it in a front-rack position \u2014 bar resting on the front of the shoulders, elbows driven high and forward, hands just outside shoulder width.",
+    "Stand up out of the rack, step back and set your feet hip-width apart. This is your starting position.",
+    "Step forward into a lunge and lower the back knee towards the floor, keeping the elbows up. If the elbows drop, the bar rolls forward and the set is over \u2014 that is the whole point of the front rack.",
+    "Drive through the front heel to return to standing.",
+    "Alternate legs. Because the load sits in front, this demands far more from the trunk than a back-racked lunge at the same weight \u2014 expect to use less."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Barbell_Front_Rack_Lunge"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Barbell Bulgarian Split Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "abdominals"
+  ],
+  "instructions": [
+    "Set a bench or box roughly knee height behind where you will stand. Unrack a barbell across your upper back as for a back squat and step away from the rack.",
+    "Rest the top of one foot on the bench behind you and hop the front foot forward until the front shin is vertical when you are at the bottom. This is your starting position.",
+    "Lower under control by bending the front knee, letting the back knee travel down towards the floor. Keep your chest up and your hips square.",
+    "Stop when the front thigh is roughly parallel to the floor, or a little sooner if your hips start to tilt.",
+    "Drive through the front heel to return to standing. Complete all reps, then swap legs.",
+    "If you cannot balance with the bar on your back, build the movement with dumbbells first \u2014 the rear-foot-elevated position is demanding before any load is added."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Barbell_Bulgarian_Split_Squat"
+}

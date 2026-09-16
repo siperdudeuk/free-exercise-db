@@ -1,0 +1,24 @@
+{
+  "name": "Barbell Reverse Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Unrack a barbell across your upper back as for a back squat, step clear of the rack and stand with your feet hip-width apart. This is your starting position.",
+    "Take a long step backwards with one foot, landing on the ball of that foot with the heel raised.",
+    "Bend both knees to lower the back knee towards the floor, keeping your torso upright and your weight in the front heel.",
+    "Drive through the front heel and push back to standing, bringing the rear foot level with the front one.",
+    "Alternate legs, or complete all reps on one side before swapping. Stepping backwards rather than forwards keeps the front shin vertical, which is why this variation is usually kinder on the knees than a forward lunge."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Barbell_Reverse_Lunge"
+}
