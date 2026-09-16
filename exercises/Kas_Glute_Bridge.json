@@ -1,0 +1,24 @@
+{
+  "name": "Kas Glute Bridge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set up as for a hip thrust: upper back across a bench, a padded barbell over the crease of the hips, feet flat and roughly hip-width apart.",
+    "Raise your hips until your torso is parallel to the floor and your shins are vertical. Tuck the ribs down and tilt the pelvis under so your lower back is flat, not arched. THIS is the starting position \u2014 unlike a hip thrust, you start at the top and never come back down to it.",
+    "Lower the bar a short way, four to six inches, by letting the hips drop while keeping the torso angle and the pelvic tuck exactly as they are. The movement is small on purpose.",
+    "Drive back up to the parallel position and squeeze the glutes hard for a second.",
+    "Keep every rep inside that short range. The bar should never touch the floor and the hips should never come down to sitting.",
+    "Named after Kassem Hanson. The point of the short range and the constant tuck is that the glutes stay under tension for the whole set and the hamstrings and lower back never get the chance to take over \u2014 so it is loaded much lighter than a hip thrust and judged on the squeeze, not the weight."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Kas_Glute_Bridge"
+}
