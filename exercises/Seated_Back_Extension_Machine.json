@@ -1,0 +1,24 @@
+{
+  "name": "Seated Back Extension Machine",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set the back pad so it sits across your upper back and adjust the seat so your hips line up with the machine's pivot.",
+    "Sit with your feet flat and fasten the lap belt if the machine has one. Sit tall against the pad. This is your starting position.",
+    "Press backwards by extending through the spine and hips until your torso is roughly in line with your thighs. Move smoothly; do not throw yourself into the pad.",
+    "Return under control to upright, letting the weight stack come close to the rest without touching it.",
+    "Distinct from the 45-degree hyperextension bench: your bodyweight is supported here and the load is set on a stack, which makes it easier to start light and progress in small steps."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Seated_Back_Extension_Machine"
+}

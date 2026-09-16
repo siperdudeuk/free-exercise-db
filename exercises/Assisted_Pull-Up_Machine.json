@@ -1,0 +1,25 @@
+{
+  "name": "Assisted Pull-Up Machine",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Select the assistance weight. On this machine the number is how much help you get, not how much you lift \u2014 a HIGHER number is EASIER, which is the opposite of every other machine in the gym.",
+    "Take the overhead bar with an overhand grip a little wider than your shoulders, then kneel or stand on the pad and let it take your weight. This is your starting position, arms straight.",
+    "Pull yourself up by driving the elbows down and back until your chin clears the bar. Keep the ribs down rather than swinging.",
+    "Lower under control all the way to straight arms.",
+    "Reduce the assistance a little as you get stronger. When you can do three sets of eight with the lightest setting, move to an unassisted pull-up."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Assisted_Pull-Up_Machine"
+}

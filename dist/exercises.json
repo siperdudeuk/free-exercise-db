@@ -672,6 +672,31 @@
     "id": "Around_The_Worlds"
   },
   {
+    "name": "Assisted Pull-Up Machine",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "middle back",
+      "shoulders"
+    ],
+    "instructions": [
+      "Select the assistance weight. On this machine the number is how much help you get, not how much you lift — a HIGHER number is EASIER, which is the opposite of every other machine in the gym.",
+      "Take the overhead bar with an overhand grip a little wider than your shoulders, then kneel or stand on the pad and let it take your weight. This is your starting position, arms straight.",
+      "Pull yourself up by driving the elbows down and back until your chin clears the bar. Keep the ribs down rather than swinging.",
+      "Lower under control all the way to straight arms.",
+      "Reduce the assistance a little as you get stronger. When you can do three sets of eight with the lightest setting, move to an unassisted pull-up."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Assisted_Pull-Up_Machine"
+  },
+  {
     "name": "Atlas Stone Trainer",
     "force": "pull",
     "level": "intermediate",
@@ -4209,6 +4234,31 @@
       "Chest_Stretch_on_Stability_Ball/1.jpg"
     ],
     "id": "Chest_Stretch_on_Stability_Ball"
+  },
+  {
+    "name": "Chest Supported Row Machine",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "middle back"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "biceps",
+      "shoulders"
+    ],
+    "instructions": [
+      "Set the chest pad so that when you lean into it your arms reach the handles with a slight bend and your shoulders are free to move.",
+      "Sit or stand into the machine, chest against the pad, and take the handles with a neutral or overhand grip. This is your starting position.",
+      "Pull the handles towards you, leading with the elbows and drawing the shoulder blades together at the end of the pull.",
+      "Pause briefly with the shoulder blades squeezed, then let the handles travel back out until the arms are straight and the shoulder blades have spread apart again.",
+      "Because the pad supports your torso, the lower back does no work holding position — this is the row to use when a bent-over row is the thing that fatigues first."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Chest_Supported_Row_Machine"
   },
   {
     "name": "Child's Pose",
@@ -7919,6 +7969,29 @@
     "id": "Glute_Ham_Raise"
   },
   {
+    "name": "Glute Kickback Machine",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Set the machine so the foot plate or roller sits under the working foot with the hip bent at roughly ninety degrees. Rest your torso on the support and hold the handles.",
+      "Place one foot on the plate and take your weight on the other leg. This is your starting position.",
+      "Press the working leg back and up until the hip is fully extended, squeezing the glute. Keep your back still — if your lower back arches to finish the rep, the weight is too heavy.",
+      "Return under control until the hip is bent again, without letting the weight stack rest.",
+      "Complete all reps on one side, then swap. This is an isolation movement — load it for higher reps rather than trying to make it a strength lift."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Glute_Kickback_Machine"
+  },
+  {
     "name": "Glute Kickback",
     "force": "push",
     "level": "beginner",
@@ -8619,6 +8692,30 @@
       "Hip_Lift_with_Band/1.jpg"
     ],
     "id": "Hip_Lift_with_Band"
+  },
+  {
+    "name": "Hip Thrust Machine",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "instructions": [
+      "Sit into the machine with your back against the pad and the belt or lap pad across the crease of your hips, not your stomach. Set the seat so your shins are roughly vertical at the top of the movement.",
+      "Plant both feet flat on the platform about hip-width apart and take hold of the handles. This is your starting position.",
+      "Drive through your heels and push your hips up until your body is straight from knees to shoulders. Squeeze the glutes hard at the top and keep your ribs down — do not finish the movement by arching your lower back.",
+      "Pause for a second at the top, then lower under control until the weight is nearly resting.",
+      "The machine is easier to load heavily than the barbell version and does not need setting up, which makes it the better choice for high-rep glute work and for anyone who dislikes a bar across the hips."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Hip_Thrust_Machine"
   },
   {
     "name": "Hug A Ball",
@@ -16191,6 +16288,30 @@
       "Scissors_Jump/1.jpg"
     ],
     "id": "Scissors_Jump"
+  },
+  {
+    "name": "Seated Back Extension Machine",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "lower back"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Set the back pad so it sits across your upper back and adjust the seat so your hips line up with the machine's pivot.",
+      "Sit with your feet flat and fasten the lap belt if the machine has one. Sit tall against the pad. This is your starting position.",
+      "Press backwards by extending through the spine and hips until your torso is roughly in line with your thighs. Move smoothly; do not throw yourself into the pad.",
+      "Return under control to upright, letting the weight stack come close to the rest without touching it.",
+      "Distinct from the 45-degree hyperextension bench: your bodyweight is supported here and the load is set on a stack, which makes it easier to start light and progress in small steps."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Seated_Back_Extension_Machine"
   },
   {
     "name": "Seated Band Hamstring Curl",
