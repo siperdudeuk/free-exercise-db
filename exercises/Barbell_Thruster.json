@@ -1,0 +1,26 @@
+{
+  "name": "Barbell Thruster",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes",
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Take a barbell in the front-rack position \u2014 resting on the front of the shoulders, elbows high, hands just outside shoulder width. Stand with feet shoulder-width apart. This is your starting position.",
+    "Squat down to at least parallel, keeping the elbows up and the chest tall.",
+    "Drive out of the bottom hard and, as the hips finish extending, use that momentum to press the bar straight overhead in one continuous movement.",
+    "Finish with the bar locked out over the middle of your feet, arms straight and ribs down.",
+    "Lower the bar back to the shoulders under control and go straight into the next squat. The squat and the press are one movement, not two \u2014 pausing between them turns it into a front squat and a push press."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Barbell_Thruster"
+}

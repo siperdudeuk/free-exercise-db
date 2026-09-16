@@ -1,0 +1,26 @@
+{
+  "name": "Pendlay Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "shoulders",
+    "lower back"
+  ],
+  "instructions": [
+    "Load a barbell on the floor and stand with your feet hip-width apart, the bar over your mid-foot.",
+    "Hinge at the hips until your torso is parallel to the floor and take an overhand grip just outside shoulder width. Your back is flat and stays that way. This is your starting position.",
+    "Pull the bar explosively to your lower chest, keeping the torso still \u2014 the hips must not rise to help.",
+    "Lower the bar all the way back to the floor and let it settle. Every rep starts from a dead stop, which is what separates this from a bent-over row.",
+    "Reset your back position and repeat. Keep the reps low and the intent fast; this is a power movement, not a burn."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Pendlay_Row"
+}

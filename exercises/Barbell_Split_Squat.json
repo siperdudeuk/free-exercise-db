@@ -1,0 +1,25 @@
+{
+  "name": "Barbell Split Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Set a barbell in a rack at upper-chest height. Step under it, rest it across your upper back as you would for a back squat, and stand up out of the rack. Take two steps back.",
+    "Step one foot forward into a long stride, roughly two of your own foot-lengths, with the back heel lifted off the floor. Both feet stay hip-width apart from side to side \u2014 a tightrope stance is what makes this feel unstable. This is your starting position.",
+    "Keeping your torso upright and your front shin close to vertical, bend both knees to lower straight down until the back knee is just above the floor.",
+    "Drive through the front heel to stand back up, keeping the front knee tracking over the middle of the foot. Do not push off the back foot \u2014 it is there for balance only.",
+    "Complete all reps on this leg, then step the other foot forward and repeat. Rack the bar before switching if you are near your limit."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Barbell_Split_Squat"
+}
